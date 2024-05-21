@@ -1,0 +1,14 @@
+header {
+  width: 100vw;
+  height: 64px;
+  background-color: black;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  color: white;
+  display: block;
+}

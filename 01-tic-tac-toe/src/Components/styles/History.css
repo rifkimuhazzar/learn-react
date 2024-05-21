@@ -1,0 +1,23 @@
+.history {
+  border: 3px solid black;
+  border-radius: 4px;
+  width: 250px;
+  height: 250px;
+  padding: 8px;
+  overflow-y: auto;
+}
+
+.history-title {
+  font-size: 1.563rem;
+  text-align: center;
+}
+
+.history-buttons {
+  margin-top: 16px;
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 8px;
+}
